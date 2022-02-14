@@ -1,4 +1,4 @@
-package jjunit.tutorial.ex02;
+package junit.tutorial.ex01.ex02;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
